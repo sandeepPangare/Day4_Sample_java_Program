@@ -1,5 +1,5 @@
 package com.bridgelabz;
-public class PositiveorNegative {
+public class Positive_Or_Negative {
     public static void main(String[] args) {
 
         int n=11;
